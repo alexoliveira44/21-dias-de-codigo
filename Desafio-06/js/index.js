@@ -1,5 +1,7 @@
 
 
+
+
 const app = document.getElementById("view");
 
 box = document.createElement("div");
@@ -52,12 +54,6 @@ linha3.appendChild(el);
 
 
 
-
-
-
-
-
-
 const ball = document.body;
 el = document.createElement("div");
 el.setAttribute("class","ball");
@@ -72,6 +68,18 @@ const ball2 = document.body;
 el = document.createElement("div");
 el.setAttribute("class","ball2");
 ball.appendChild(el);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
